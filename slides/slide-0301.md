@@ -1,5 +1,6 @@
 * Principalmente para código fuente
  * Realmente cualquier cosa que sea texto
+   * Documentos, manuales, tesis doctorales...
    * imagenes SVG, why not? ¯\\_(ツ)_/¯
 * Colaboración
  * Saber quién ha hecho qué

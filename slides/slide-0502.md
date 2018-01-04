@@ -1,0 +1,10 @@
+### Interfaz gráfica GIT
+
+* Oficial:
+ * **git-gui**: interfaz para hacer commits
+ * **gitk**: interfaz para visualizar/explorar el repositorio
+* No oficiales:
+ * **giggle**: GNU/Linux
+ * **[github](https://desktop.github.com/)**:
+* Todos los grandes editores tienen integración con GIT
+ * Atom, PHPstorm, Visual Studio Code...

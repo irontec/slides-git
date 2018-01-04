@@ -5,7 +5,9 @@
     ],
     [
         "slide-0100.md",
-        "slide-0101.md"
+        "slide-0101.md",
+        "slide-0102.md",
+        "slide-0103.md"
     ],
     [
         "slide-0200.md",
@@ -22,6 +24,21 @@
     [
         "slide-0400.md",
         "slide-0401.md",
-        "slide-0402.md"
+        "slide-0402.md",
+        "slide-0403.md",
+        "slide-0404.md",
+        "slide-0405.md"
+    ],
+    [
+        "slide-0500.md",
+        "slide-0501.md",
+        "slide-0502.md"
+    ],
+    [
+        "slide-0600.md",
+        "slide-0601.md",
+        "slide-0602.md",
+        "slide-0603.md",
+        "slide-0604.md"
     ]
 ]

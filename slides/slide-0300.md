@@ -1,1 +1,1 @@
-## Cuando podemos utilizar GIT?
+## Cuando podemos utilizar un sistema de control de versiones?
