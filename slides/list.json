@@ -1,6 +1,27 @@
 [
-    "index.md",
     [
+        "index.md",
         "slide-0000.md"
+    ],
+    [
+        "slide-0100.md",
+        "slide-0101.md"
+    ],
+    [
+        "slide-0200.md",
+        "slide-0201.md",
+        "slide-0202.md",
+        "slide-0203.md",
+        "slide-0204.md"
+    ],
+    [
+        "slide-0300.md",
+        "slide-0301.md",
+        "slide-0302.md"
+    ],
+    [
+        "slide-0400.md",
+        "slide-0401.md",
+        "slide-0402.md"
     ]
 ]
