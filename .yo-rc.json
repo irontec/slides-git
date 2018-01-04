@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Irontec",
+    "packageVersion": "1.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}

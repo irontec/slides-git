@@ -1,0 +1,10 @@
+{
+  "name": "irontec",
+  "version": "1.0.0",
+  "dependencies": {
+    "reveal.js": "~3.6.0",
+    "highlightjs": "~9.12.0",
+    "reveal.js-menu": "~0.9.0",
+    "reveal-irontec-theme": "~1.0.9"
+  }
+}
