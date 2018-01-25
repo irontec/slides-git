@@ -1,4 +1,6 @@
-* Hacer **commit**
+### Commit
+* Sirve para modificar el repositorio con los cambios que hemos añadido previamente
+  * Hacer **commit**
 ```shell
 $ git commit
 ```
@@ -7,8 +9,7 @@ Y se abrirá nuestro editor
 ```
 Cabecera del commit, asunto
 
-Cuerpo del commit donde explicamos qué cambios hemos realizado en el mismo
-donde estaría bien que expliquemos un poquito la feature o los cambios.
+Cuerpo del commit donde explicamos qué cambios hemos realizado en el mismo.
 
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.

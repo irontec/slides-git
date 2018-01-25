@@ -5,6 +5,6 @@
  * **gitk**: interfaz para visualizar/explorar el repositorio
 * No oficiales:
  * **giggle**: GNU/Linux
- * **[github](https://desktop.github.com/)**:
+ * **[github](https://desktop.github.com/)**: tiene su propia interfaz
 * Todos los grandes editores tienen integración con GIT
  * Atom, PHPstorm, Visual Studio Code...

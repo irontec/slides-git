@@ -1,5 +1,5 @@
 ### Ramas / branches
-* Las ramas son utilizadas para crear distintas líneas de desarrollo
+* Las ramas son utilizadas para crear distintas líneas de desarrollo, normalmente con un origen común
  * Rama de producción
    * lo que sabemos que funciona
  * Rama de desarrollo

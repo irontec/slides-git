@@ -1,3 +1,5 @@
+### status
+* Conocer el estado de la copia de trabajo local
 * Crear fichero nuevo **fichero1.txt**
 
 ```shell

@@ -1,6 +1,6 @@
 ### Clonar repositorio
 
-* **Clonar**: realizar copia de un repositorio remoto en local
+* **Clonar**: realizar copia completa del histórico de un repositorio remoto en local
  * **remoto**: GIT soporta distintos protocolos "*remotos*"
    * **local**: está en otro directorio de mi equipo **file://**
    * **http**: accesible por HTTP o HTTPS **https://**

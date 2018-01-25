@@ -1,3 +1,4 @@
+### Añadir un fichero
 * Añadir fichero **fichero1.txt**
  * Pasa al **staging area**
 
