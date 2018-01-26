@@ -1,4 +1,4 @@
-### opciones
+### Opciones
 * Existen muchas opciones para visualizar el histórico
 *
 ```shell

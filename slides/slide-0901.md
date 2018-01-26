@@ -1,4 +1,4 @@
-### logs
+### Uso
 * Una vez creados varios commits, o tras clonar un repositorio, nos puede interesar ver el histórico
 
 ```shell

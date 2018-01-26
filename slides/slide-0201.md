@@ -1,6 +1,6 @@
 ### Copias añadiendo fechas
 
-* Probablemente el más usado cuando por todo el mundo:
+* Probablemente el más usado por todo el mundo:
 ```none
 trabajo.odt
 trabajo-2018-01-02.odt
@@ -19,3 +19,4 @@ trabajo-final2.odt
 trabajo-final-de-verdad.odt
 trabajo-final-ultimisima-version-a-presentar.odt
 ```
+* Os suena?

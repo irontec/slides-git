@@ -7,6 +7,7 @@ $ git tag
 v0.1
 v0.3
 v1.0
+...
 ```
 * Existen dos tipos de tags:
   * **Simples**: Es como un alias a un hash en concreto

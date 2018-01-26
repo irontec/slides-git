@@ -1,2 +1,2 @@
-## Realizar cambios en el repositorio
-### Commits
+## Commit
+### Realizar cambios en el repositorio
