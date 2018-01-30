@@ -1,12 +1,13 @@
-#### Enviar datos a un remote
-* Para compartir nuestros cambios con el repositorio remoto
-  * Para enviar al repositorio **origin** nuestra rama **master**
+### Traer cambios de un remote (II)
+
+* **pull** nos trae los cambios del repositorio remoto y los aplica
+  * Hace una combinación de **[fetch](#/8/3)** y **[merge](#/14)**
+    * Si hemos realizado modificaciones previas, podría existir un **[conflicto](#/15)**
 
 ```shell
-$ git push origin master
+$ git pull
+Updating 620c904..d122df9
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
 ```
-
-* Sólo funciona si :
-  * tenemos permisos de escritura en la rama correspondiente
-  * no se han realizado cambios previos
-    * de ser así, tendremos que hacer **merge** antes de subirlos

@@ -1,7 +1,9 @@
-### Traer datos de un remote
-  * Esto nos trae los cambios del repositorio remoto
-    * Si no indicamos el remote, por defecto es **origin**
+### Traer cambios de un remote (I)
 
+* **fetch** nos trae los cambios del repositorio remoto
+  * Sólo los descarga, no los aplica sobre la rama en la que estamos
+    * Útil para tener nuestra copia del repositorio actualizada
+  * Si no indicamos el remote, por defecto es **origin**
 ```shell
 $ git fetch
 remote: Counting objects: 79, done.
