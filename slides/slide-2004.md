@@ -1,11 +1,7 @@
-### Reseteando nuestra area de trabajo
+### Reseteando nuestro area de trabajo(I)
 
-* Reset del **staging area**
-```shell
-$ git reset
-```
-* Reset cualquier cambio/modificación (salvo los ficheros no versionados)
-  * DANGER!!!
-```shell
-$ git reset --hard
-```
+* **Working directory**: Nuestro area de trabajo, donde están los ficheros
+* **Index**: es la denominación técnica del **staging area**. Es lo que irá en nuestro siguiente *commit*
+* **HEAD**: hace referencia al último commit en el que estás, el próximo *padre*
+
+![centralized](./resources/reset-workflow.png)<!-- .element height="50%" width="50%" -->
